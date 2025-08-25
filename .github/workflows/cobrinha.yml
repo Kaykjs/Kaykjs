@@ -1,6 +1,5 @@
 
-
-name: Snake
+name: Cobrinha
 
 on:
   # run automatically every 24 hours
