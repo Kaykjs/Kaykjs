@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kayk-junior"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kayk-trindade-317176245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:kaykjunior242@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="https://cardoso-machado.vercel.app"><img src="https://img.shields.io/badge/Projeto_no_ar-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Projeto no ar"></a>
 </p>
@@ -78,5 +78,5 @@ Site institucional com catálogo de imóveis e painel administrativo. **Desenvol
 ---
 
 <p align="center">
-  📫 Vamos conversar? Me chame no <a href="https://linkedin.com/in/kayk-junior">LinkedIn</a> ou pelo e-mail <b>kaykjunior242@gmail.com</b>
+  📫 Vamos conversar? Me chame no <a href="https://www.linkedin.com/in/kayk-trindade-317176245/">LinkedIn</a> ou pelo e-mail <b>kaykjunior242@gmail.com</b>
 </p>
